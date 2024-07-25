@@ -3,7 +3,7 @@ class Solution:
         
 
         #ordenar da maior diferenca de preco para a menor
-        copiaOrdenada = sorted(costs, reverse=True, key=lambda diferenca : abs(itemgetter(0) - itemgetter(1)))
+        copiaOrdenada = sorted(costs, reverse=True, key=lambda person : abs(person[0] - person[1]))
         
         #Incluir na solucao se for compativel, ou seja, a e b devem ter a msm qtd de pessoas e sempre devemos optar pelo mais barato
         n = (len(costs))/2
