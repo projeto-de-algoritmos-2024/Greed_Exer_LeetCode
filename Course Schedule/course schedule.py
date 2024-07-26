@@ -11,6 +11,7 @@ class Solution:
         for course in copiaOrdenada:
            if tempoTotal + course[0] <= course[1]:
                qtdCourses = qtdCourses + 1
+               tempoTotal = tempoTotal + course[0]
                    
         return qtdCourses
                    
