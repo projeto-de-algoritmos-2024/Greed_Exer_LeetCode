@@ -1,18 +1,4 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# Exer_LeetCode
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
@@ -20,11 +6,11 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/101750   |  Ana Carolina Costa César |
+| 19/0083930  |  Ana Caroline Campos Rocha |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 2 exercícios difíceis (nível 9 ou 10) e 2 médios (nível 7 ou 8) que estejam relacionado ao conteúdo que vimos em algoritmos ambiciosos, ou greed. Além de submetidos no juiz online e aprovados, os exercícios serão inseridos aqui no repositório conforme a construção e correção do código.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
