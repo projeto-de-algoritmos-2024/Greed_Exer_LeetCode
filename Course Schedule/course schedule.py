@@ -2,7 +2,7 @@ class Solution:
     def scheduleCourse(self, courses: List[List[int]]) -> int:
 
         #ordenar do menor deadline para o maior
-        copiaOrdenada = sorted(courses, key=lambda course : course[1])
+        copiaOrdenada = sorted(courses, key=lambda course: (course[1], course[0]))
         
         #Incluir na solucao se for compativel, é possível acabar o curso antes do deadline dele
         tempoTotal = 0
